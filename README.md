@@ -1,2 +1,2 @@
-"# finger-count" 
+"# finger-count"   
 Làm quen thư viện openCV, mediapipe
