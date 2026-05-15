@@ -1,2 +1,1 @@
-"# finger-count"   
-Làm quen thư viện openCV, mediapipe.
+  Làm quen thư viện openCV, mediapipe.
